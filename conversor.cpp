@@ -35,9 +35,7 @@ int main(){
     for(int i = conta -1; i != -1; i--){
         cout << binario[i];
     }
-
-
-
     return 0;
+    //szuster se estiver vendo isso me fale no whatsapp
 
 }
